@@ -2,7 +2,7 @@ import React from 'react'
 
 function Quests() {
   return (
-    <div>Quests</div>
+    <div className='tab-title'>Quests</div>
   )
 }
 

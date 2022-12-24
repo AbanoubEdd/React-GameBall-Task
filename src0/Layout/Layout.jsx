@@ -2,7 +2,7 @@ import React from 'react'
 import { Outlet } from 'react-router-dom'
 import Header from '../components/Header/Header'
 import SideBar from '../components/SideBar/SideBar'
-
+//comment layout
 function Layout() {
   return (
     <div className="body-wraper">

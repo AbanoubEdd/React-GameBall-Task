@@ -2,7 +2,7 @@ import React from 'react'
 
 function Levels() {
   return (
-    <div>Levels</div>
+    <div className='tab-title'>Levels</div>
   )
 }
 

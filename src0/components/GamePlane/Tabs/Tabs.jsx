@@ -24,7 +24,7 @@ function Tabs(props) {
   };
 
   return (
-    <div className="tabs-menu-2 w-tab-menu">
+    <div className="sub-tabs-menu w-tab-menu">
       <a
         onClick={handleLevels}
         className={"sub-tab w-inline-block w-tab-link " + activeClassLevels}
